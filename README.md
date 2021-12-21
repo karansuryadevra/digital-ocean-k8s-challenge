@@ -13,3 +13,6 @@ https://github.com/karansuryadevra/digital-ocean-k8s-challenge/docs/writeup.md
 Karan Suryadevra
 
 https://www.linkedin.com/in/karan-suryadevra
+
+## License
+- MIT
