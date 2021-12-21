@@ -1,2 +1,15 @@
 # digital-ocean-k8s-challenge
-Challenge: Deploy a scalable SQL database cluster
+
+## Name of Project
+Deploy a scalable SQL database cluster
+
+## Link to Your Github or Gitlab Repo
+https://github.com/karansuryadevra/digital-ocean-k8s-challenge
+
+## Link to Your Project Writeup
+https://github.com/karansuryadevra/digital-ocean-k8s-challenge/docs/writeup.md
+
+## Contact Info
+Karan Suryadevra
+
+https://www.linkedin.com/in/karan-suryadevra
