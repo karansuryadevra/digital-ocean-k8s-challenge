@@ -12,7 +12,8 @@ https://github.com/karansuryadevra/digital-ocean-k8s-challenge/blob/main/docs/wr
 ## Contact Info
 Karan Suryadevra
 
-https://www.linkedin.com/in/karan-suryadevra
+**email**: karansuryadevra@outllok.com  
+**LinkedIn**: https://www.linkedin.com/in/karan-suryadevra  
 
 ## License
 - MIT
