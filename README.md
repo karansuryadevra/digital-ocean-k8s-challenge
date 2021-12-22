@@ -7,7 +7,7 @@ Deploy a scalable SQL database cluster
 https://github.com/karansuryadevra/digital-ocean-k8s-challenge
 
 ## Link to Your Project Writeup
-https://github.com/karansuryadevra/digital-ocean-k8s-challenge/docs/writeup.md
+https://github.com/karansuryadevra/digital-ocean-k8s-challenge/blob/main/docs/writeup.md
 
 ## Contact Info
 Karan Suryadevra
