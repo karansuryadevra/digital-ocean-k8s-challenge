@@ -12,7 +12,7 @@ https://github.com/karansuryadevra/digital-ocean-k8s-challenge/blob/main/docs/wr
 ## Contact Info
 Karan Suryadevra
 
-**email**: karansuryadevra@outllok.com  
+**email**: karansuryadevra@outlook.com  
 **LinkedIn**: https://www.linkedin.com/in/karan-suryadevra  
 
 ## License
